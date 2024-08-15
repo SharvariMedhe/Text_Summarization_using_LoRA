@@ -19,7 +19,6 @@ This project focuses on summarizing messenger-like conversations using a fine-tu
 
 ## Deployment
 - The fine-tuned LoRA adapter is deployed on Hugging Face Model Hub, allowing users to easily access and use the model for text summarization tasks.
-- **Model Link:** [Hugging Face Model Hub - Text Summarization with LoRA](#)
 
 ## Installation
 1. Clone the repository:
